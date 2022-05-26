@@ -1,0 +1,35 @@
+.txtHover:hover{
+   color: aqua;
+
+}
+
+#retornoEmail, #retornoNome{
+
+   font-size: small;
+   text-align:end ;
+   display: flex;
+   justify-content: end;
+}
+
+.emailValidado{
+   color: rgb(4, 184, 10);
+  
+}
+
+.emailInvalido, .nomeInvalido{
+   color: rgb(251, 0, 0);
+  
+}
+
+
+
+
+
+.imagemNewsLetter{
+   width: auto;
+   height: 100px;
+}
+
+#btnBuscaCep:hover{
+   color: blue;
+}

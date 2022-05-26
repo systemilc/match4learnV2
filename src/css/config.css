@@ -1,0 +1,25 @@
+:root{
+    --cor-purple: #C55FFC;
+    --cor-purple-haze: #EFDCF9;
+    --cor-purple-charcoral: #323E42;
+    --cor-purple-violet: #7954A1;
+
+    --cor-vermelho: #860303c8;
+}
+
+*{
+font-family: 'Roboto', sans-serif;
+
+}
+footer a{
+    text-decoration: none;
+    color: var(--cor-purple-charcoral);
+}
+
+input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    
+
